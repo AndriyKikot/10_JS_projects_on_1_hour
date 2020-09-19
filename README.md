@@ -7,4 +7,5 @@
 [Auto Write Text](https://andriykikot.github.io/10_JS_projects_on_1_hour/auto-write-text)  
 [Popup](https://andriykikot.github.io/10_JS_projects_on_1_hour/popup)  
 [Purple Heart Rain](https://andriykikot.github.io/10_JS_projects_on_1_hour/purple-heart-rain)  
-[Background Changer](https://andriykikot.github.io/10_JS_projects_on_1_hour/background-changer)
+[Background Changer](https://andriykikot.github.io/10_JS_projects_on_1_hour/background-changer)  
+[Dark Mode Toggle](https://andriykikot.github.io/10_JS_projects_on_1_hour/dark-mode-toggle)
