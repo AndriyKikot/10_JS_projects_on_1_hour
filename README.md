@@ -9,4 +9,5 @@
 [Purple Heart Rain](https://andriykikot.github.io/10_JS_projects_on_1_hour/purple-heart-rain)  
 [Background Changer](https://andriykikot.github.io/10_JS_projects_on_1_hour/background-changer)  
 [Dark Mode Toggle](https://andriykikot.github.io/10_JS_projects_on_1_hour/dark-mode-toggle)  
-[Carousel](https://andriykikot.github.io/10_JS_projects_on_1_hour/dark-mode-toggle)
+[Carousel](https://andriykikot.github.io/10_JS_projects_on_1_hour/carousel)  
+[Carousel](https://andriykikot.github.io/10_JS_projects_on_1_hour/sound-board)
